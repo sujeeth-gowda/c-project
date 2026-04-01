@@ -12,7 +12,3 @@ void biggest3() {
     else
         printf("The largest number is: %d\n", c);
 }
-
-This is to test 
-
-
